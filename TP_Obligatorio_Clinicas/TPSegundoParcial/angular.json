@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TPSegundoParcial"
+    }
+  },
+  "defaultProject": "TPSegundoParcial",
+  "cli": {
+    "analytics": "08bec70d-5cc0-40e7-9e96-c3c29aa02a9d"
+  }
 }
